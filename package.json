@@ -1,5 +1,5 @@
 {
-  "name": "deserialize-rrs-log",
+  "name": "deserialize-rrs_log",
   "version": "1.0.0",
   "main": "index.js",
   "scripts": {
